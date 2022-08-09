@@ -1,3 +1,6 @@
+/*
+função anonima no botao que ao clicar irá recuperar e adicionar a propriedade nome do array lista
+*/
 
 let lista = [
   {nome: 'Spiderman', ano: 2000, categoria:'aventura'},
